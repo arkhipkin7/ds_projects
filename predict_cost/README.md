@@ -10,4 +10,4 @@ ___
 ## File descriptons:
 - main.ipynd - book with all the code.
 - main.pdf - generate pdf-file from the book.
-- data/*.xlsx - files with data
+- data/*.xlsx - files with data (unfortunately the volume of files was large and could not fit into the csv)
