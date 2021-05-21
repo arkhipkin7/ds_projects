@@ -32,5 +32,8 @@ ____
   - sklearn
   - seaborn
   - matplotlib
+
+- ## [SQL Tasks](https://github.com/arkhipkin7/ds_projects/tree/main/SQL_tasks)
+  Few tasks for SQL.
   
-  Used programming languaages: Python 3.7
+  Used programming languaages: SQL, T-SQL
