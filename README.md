@@ -37,3 +37,14 @@ ____
   Few tasks for SQL.
   
   Used programming languaages: SQL, T-SQL
+
+- ## [Tele2 test task](https://github.com/arkhipkin7/ds_projects/tree/main/clustering_text)
+  Tele2 interview test task. Models for clustering text data
+  
+  Libraries used:
+  - nltk
+  - kneed
+  - wordcloud 
+  - pandas
+  - sklearn
+  - matplotlib
