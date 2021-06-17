@@ -1,4 +1,4 @@
-# Test tasks to Magnit
+# Test tasks
 ____
 
 - ## [DS Tasks](https://github.com/arkhipkin7/ds_projects/tree/main/magnit/python)
