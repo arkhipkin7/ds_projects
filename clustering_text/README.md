@@ -1,4 +1,4 @@
-# Test Project to Tele2
+# Test Project
 ___
 
 ## Intro
