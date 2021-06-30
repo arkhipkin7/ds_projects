@@ -2,7 +2,7 @@
 ____
 
 - ## [Predict Cost](https://github.com/arkhipkin7/ds_projects/tree/main/predict_cost)
-  MainLab interview test task. Model for predicting the cost of threatment for clients.
+  Model for predicting the cost of threatment for clients.
   
   Libraries used:
   - sklearn
@@ -14,7 +14,7 @@ ____
   
   
 - ## [Predict Maintenance](https://github.com/arkhipkin7/ds_projects/tree/main/predictive_maintenance)
-  GlowByte interview test task. Model for predicting engine failure.
+  Model for predicting engine failure.
   
   Libraries used:
   - pandas
@@ -24,8 +24,8 @@ ____
   
   Used programming languaages: Python 3.7
 
-- ## [Magnit test task](https://github.com/arkhipkin7/ds_projects/tree/main/magnit)
-  Magnit interview test task. Models for predicting
+- ## [Models Test](https://github.com/arkhipkin7/ds_projects/tree/main/magnit)
+  Models for predicting
   
   Libraries used:
   - pandas
@@ -38,8 +38,8 @@ ____
   
   Used programming languaages: SQL, T-SQL
 
-- ## [Tele2 test task](https://github.com/arkhipkin7/ds_projects/tree/main/clustering_text)
-  Tele2 interview test task. Models for clustering text data
+- ## [Clustering Test Task](https://github.com/arkhipkin7/ds_projects/tree/main/clustering_text)
+  Models for clustering text data
   
   Libraries used:
   - nltk
