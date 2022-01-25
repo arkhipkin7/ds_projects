@@ -1,4 +1,4 @@
-# ds_projects
+# This repo for my pet-projecs
 ____
 
 - ## [Predict Cost](https://github.com/arkhipkin7/ds_projects/tree/main/predict_cost)
